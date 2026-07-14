@@ -26,21 +26,25 @@ A 5-stage emotion-preserving accent-conversion pipeline, translating Indian-acce
 A tri-agent LangChain system that evaluates SKU profitability and runs ML-driven stockout risk, closing the loop with an n8n workflow that triggers automated repricing through the Shopify Admin API.
 <br/><sub>`LangChain` `n8n` `FastAPI`</sub> · [repo →](https://github.com/aditya-sridhar-git/Multi-Agent-Framework-for-Shopify-Workflow-Automation-Langchain-n8n)
 
-**ResNet50 Osteoarthritis Classifier**
-Deep learning model for osteoarthritis detection from medical imaging.
-<br/><sub>`PyTorch` `ResNet50`</sub> · [repo →](https://github.com/aditya-sridhar-git/RestNet50-Osteoarthritis-Classifier)
+<sub>[See all pinned projects →](https://github.com/aditya-sridhar-git?tab=repositories)</sub>
 
 <br/>
 
 ## Toolbox
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,c,js,pytorch,tensorflow,opencv,aws,mongodb,mysql,git,firebase&theme=dark" />
-</p>
+**Languages**
+<p><img src="https://skillicons.dev/icons?i=python,java,c,js&theme=dark" /></p>
 
+**ML & Data**
+<p><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" /></p>
+
+**Cloud, DB & Tools**
+<p><img src="https://skillicons.dev/icons?i=aws,mongodb,mysql,git,firebase&theme=dark" /></p>
+
+**Frameworks**
 <p>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-24283b?style=for-the-badge&logo=langchain&logoColor=9ece6a" />
+<img src="https://img.shields.io/badge/n8n-24283b?style=for-the-badge&logo=n8n&logoColor=f7768e" />
 </p>
 
 <br/>
@@ -48,17 +52,11 @@ Deep learning model for osteoarthritis detection from medical imaging.
 ## GitHub Stats
 
 <p>
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=aditya-sridhar-git&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-sridhar-git&layout=compact&theme=tokyonight&hide_border=true&hide_title=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=aditya-sridhar-git&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&count_private=true&cache_seconds=86400" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-sridhar-git&layout=compact&theme=tokyonight&hide_border=true&hide_title=true&cache_seconds=86400" />
 </p>
 
 <img src="https://streak-stats.demolab.com?user=aditya-sridhar-git&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-## Trophy Case
-
-<img src="https://github-profile-trophy.vercel.app/?username=aditya-sridhar-git&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8&margin-h=8" />
 
 <br/>
 

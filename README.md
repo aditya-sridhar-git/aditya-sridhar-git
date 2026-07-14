@@ -52,11 +52,11 @@ A tri-agent LangChain system that evaluates SKU profitability and runs ML-driven
 ## GitHub Stats
 
 <p>
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=aditya-sridhar-git&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&count_private=true&cache_seconds=86400" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-sridhar-git&layout=compact&theme=tokyonight&hide_border=true&hide_title=true&cache_seconds=86400" />
+<img height="165" src="https://raw.githubusercontent.com/aditya-sridhar-git/aditya-sridhar-git/main/assets/stats.svg" />
+<img height="165" src="https://raw.githubusercontent.com/aditya-sridhar-git/aditya-sridhar-git/main/assets/top-langs.svg" />
 </p>
 
-<img src="https://streak-stats.demolab.com?user=aditya-sridhar-git&theme=tokyonight&hide_border=true" />
+<img src="https://raw.githubusercontent.com/aditya-sridhar-git/aditya-sridhar-git/main/assets/streak.svg" />
 
 <br/>
 

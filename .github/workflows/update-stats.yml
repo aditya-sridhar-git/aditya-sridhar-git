@@ -20,15 +20,18 @@ jobs:
 
       - name: Fetch GitHub Stats card
         run: |
-          curl -s "https://github-readme-stats.vercel.app/api?username=aditya-sridhar-git&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&count_private=true" -o assets/stats.svg
+          curl -s "https://github-readme-stats.vercel.app/api?username=aditya-sridhar-git&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&count_private=true" -o assets/stats.tmp.svg
+          if grep -q "<svg" assets/stats.tmp.svg; then mv assets/stats.tmp.svg assets/stats.svg; else echo "::warning::stats.svg fetch failed, keeping previous version"; rm -f assets/stats.tmp.svg; fi
 
       - name: Fetch Top Languages card
         run: |
-          curl -s "https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-sridhar-git&layout=compact&theme=tokyonight&hide_border=true&hide_title=true" -o assets/top-langs.svg
+          curl -s "https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-sridhar-git&layout=compact&theme=tokyonight&hide_border=true&hide_title=true" -o assets/top-langs.tmp.svg
+          if grep -q "<svg" assets/top-langs.tmp.svg; then mv assets/top-langs.tmp.svg assets/top-langs.svg; else echo "::warning::top-langs.svg fetch failed, keeping previous version"; rm -f assets/top-langs.tmp.svg; fi
 
       - name: Fetch Streak Stats card
         run: |
-          curl -s "https://streak-stats.demolab.com?user=aditya-sridhar-git&theme=tokyonight&hide_border=true" -o assets/streak.svg
+          curl -s "https://streak-stats.demolab.com?user=aditya-sridhar-git&theme=tokyonight&hide_border=true" -o assets/streak.tmp.svg
+          if grep -q "<svg" assets/streak.tmp.svg; then mv assets/streak.tmp.svg assets/streak.svg; else echo "::warning::streak.svg fetch failed, keeping previous version"; rm -f assets/streak.tmp.svg; fi
 
       - name: Commit and push if changed
         run: |

@@ -44,5 +44,5 @@ A tri-agent LangChain system that evaluates SKU profitability and runs ML-driven
 
 ## Elsewhere
 
-🥇 NPTEL Data Science for Engineers — All India Rank 1
+🥇 NPTEL Data Science for Engineers
 📚 Coursera: Machine Learning, Deep Learning & Math for ML Specializations

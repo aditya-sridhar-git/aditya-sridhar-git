@@ -2,7 +2,7 @@
 
 # Hi, I'm Aditya 👋
 
-### Computer Science Undergraduate · Machine Learning & AI
+### Computer Science Undergraduate 
 
 Projects & Research Head, ACM RVCE · RV College of Engineering, Bangalore
 

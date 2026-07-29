@@ -70,22 +70,11 @@ A 5-stage emotion-preserving accent-conversion pipeline that translates Indian-a
 
 **Multi-Agent Shopify Workflow Automation**
 A tri-agent LangChain system that evaluates SKU profitability and runs ML-driven stockout risk assessments, closing the loop with an n8n workflow that triggers automated repricing through the Shopify Admin API.
-`LangChain` `n8n` `FastAPI` · [repo →](https://github.com/aditya-sridhar-git/Multi-Agent-Framework-for-Shopify-Workflow-Automation-Langchain-n8n)
+`LangChain` `n8n` `FastAPI` · 
 
 **CCTV Face Recognition Access Control**
 A Luxriot-based real-time access control system achieving 99% detection accuracy across multiple CCTV feeds, with whitelist/blacklist enforcement and automated email alerts.
 `Python` `Luxriot` `Computer Vision`
-
-<br/>
-
-## GitHub Stats
-
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=aditya-sridhar-git&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://streak-stats.demolab.com/?user=aditya-sridhar-git&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-sridhar-git&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 
 <br/>
 

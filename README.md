@@ -82,7 +82,7 @@ A Luxriot-based real-time access control system achieving 99% detection accuracy
 
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=aditya-sridhar-git&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-sridhar-git&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=aditya-sridhar-git&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-sridhar-git&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
